@@ -47,7 +47,8 @@ notes and information about block printing
 ---
 
 ## sources:
-* Helpful video about block printing: https://www.youtube.com/watch?v=KHx-XfegugQ
+* Helpful video about block printing on shirts: https://www.youtube.com/watch?v=KHx-XfegugQ
+* video about block printing on fabric: https://www.youtube.com/watch?v=6GpmdCqDSZI
 
 # TODO:
 * add pictures for materials and guide sections
