@@ -21,6 +21,7 @@ notes and information about block printing
     * a book or a laptop will also work
 
 ## guide:
+1. wash and dry the shirt you'll print on
 1. **carving**
     1. make a design
         * I recommend creating your design and then taking a picture of it and printing it.
