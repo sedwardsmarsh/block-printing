@@ -35,13 +35,18 @@ notes and information about block printing
         * you can use your bench hook to hold the linoleum block in place while you carve, but I prefer to hold it with my hands.
 2. **printing**
     1. clear any loose shavings from the lineolum block
-    2. place a quarter-sized dollup of ink on your ink well and rub it with the brayer
-        * small peaks and troughs should form in the ink well and on the roller. 
-        * the roller should make a tacky sound as it rolls across the ink well.
-    3. make several passes with the roller on the linoleum block until the entire design is covered
-    4. insert the hard surface into the scrap fabric under the area where you want to print your design
+    2. insert the hard surface into the scrap fabric under the area where you want to print your design
+    3. place a quarter-sized dollup of ink on your ink well
+        1. rub the dollup into a square about 1.5 times the length of your brayer roller
+            * make sure the brayer is entirely covered
+        2. start a second square of ink around the same size as the first
+            * the goal with this square of ink is to prevent over-inking the linoleum block
+            * small peaks and troughs should form in the ink well and on the roller. 
+            * the roller should make a tacky sound as it rolls across the ink well.
+    4. perform 2-3 cycles of inking the brayer and covering the entire design on your linoleum block
     5. make a test print of your linoleum block on the scrap fabric or paper
-    6. if you're happy with the test print, proceed to re-apply ink to the linoleum block and print on fabric 
+    6. if you're happy with the test print, and proceed to re-apply ink to the linoleum block and print on fabric 
+        * make sure you have enough ink in your ink well
         * otherwise, return to step 5. and continue carving your design
 3. let your shirt dry the recommended amount of time for your ink.
 
