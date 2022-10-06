@@ -8,6 +8,7 @@ notes and information about block printing
 * block printing ink for fabric
     * don't get screen printing ink
 * ink well / bench hook
+    * <img src="bench_hook_inking_plate.jpg" alt="bench hook and inking plate" width="200">
     * the metal speedball one doubles as an ink well and a bench hook for carving
 * brayer roller
     * always store this with the roller off any surface, it will deform over time and become ruined.
