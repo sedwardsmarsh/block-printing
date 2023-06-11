@@ -40,7 +40,7 @@ notes and information about block printing
 ## guide:
 1. wash and dry the shirt you'll print on
 
-1. **carving**
+### carving
     1. make a design
         * I recommend creating your design and then taking a picture of it and printing it.
         * scale your image to be proportional to your linoleum block. Preview on MacOS can resize an image via the menu bar under `Tools > Adjust Size`.
@@ -56,7 +56,7 @@ notes and information about block printing
         * be careful not to carve deeper than half the block's depth
         * you can use your bench hook to hold the linoleum block in place while you carve, but I prefer to hold it with my hands.
 
-2. **printing**
+### printing
     1. clear any loose shavings from the lineolum block
     
     2. insert the hard surface into the scrap fabric under the area where you want to print your design
